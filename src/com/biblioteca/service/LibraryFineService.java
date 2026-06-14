@@ -3,6 +3,7 @@ package com.biblioteca.service;
 import com.biblioteca.domain.BookLoan;
 import com.biblioteca.strategy.PenaltyStrategy;
 import java.util.List;
+//prueba de cambio supongo 
 
 public class LibraryFineService {
     private final PenaltyStrategy penaltyStrategy; // Inyección de dependencia
