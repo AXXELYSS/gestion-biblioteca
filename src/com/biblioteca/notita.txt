@@ -1,0 +1,3 @@
+        prestamosTardios.add(new BookLoan("Cien años de soledad", 4)); 
+        prestamosTardios.add(new BookLoan("Álgebra de Baldor", 2));  
+estos dos se pueden editar la suma de ambos hará los días de retraso , ya el descuento de retraso deacuerdo a esos días y si es alumno o no. 
